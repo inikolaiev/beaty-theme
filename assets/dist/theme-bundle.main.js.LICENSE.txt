@@ -1,0 +1,87 @@
+/*!
+ * jQuery UI :data 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Draggable 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Keycode 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Mouse 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Scroll Parent 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Slider 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*!
+ * jQuery UI Touch Punch 0.2.3 + detection update
+ *
+ * Copyright 2011–2014, Dave Furfero
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ *
+ * Depends:
+ *  jquery.ui.widget.js
+ *  jquery.ui.mouse.js
+ */
+
+/*!
+ * jQuery UI Widget 1.13.2
+ * http://jqueryui.com
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ */
+
+/*! jQuery v3.5.1 | (c) JS Foundation and other contributors | jquery.org/license */
+
+/*! matchMedia() polyfill - Test a CSS media type/query in JS. Authors & copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas, David Knight. Dual MIT/BSD license */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * SVGInjector v1.1.3 - Fast, caching, dynamic inline SVG DOM injection library
+ * https://github.com/iconic/SVGInjector
+ *
+ * Copyright (c) 2014-2015 Waybury <hello@waybury.com>
+ * @license MIT
+ */
